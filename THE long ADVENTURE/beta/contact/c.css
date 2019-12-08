@@ -1,0 +1,11 @@
+/* CSS Document */
+
+body {
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+button {
+	border: 5px inset #F4B236;
+	width: 100px;
+}
